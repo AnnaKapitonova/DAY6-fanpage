@@ -53,7 +53,7 @@ font-family: 'Rajdhani', sans-serif;
     align-items: center;
     padding: 15px 0;
     justify-content: space-between;
-    background-image:url(10.gif) ;
+    background-image:url(images/10.gif) ;
     height: 40px;
     color:rgb(255, 255, 255);
     
@@ -95,7 +95,7 @@ font-family: 'Rajdhani', sans-serif;
     width: 100%;
     height: 100vh;
     background-position: center;
-    background-image: url(10.gif);
+    background-image: url(images/10.gif);
     display: flex;
    
 }
@@ -148,26 +148,26 @@ font-family: 'Rajdhani', sans-serif;
 
 .container .slider .slide.slide1
 {
-  background: url(sunset.gif) ;
+  background: url(images/sunset.gif) ;
   background-size: cover;
   background-position: center ;
 }
 .container .slider .slide.slide2
 {
-  background: url(second.gif) ;
+  background: url(images/second.gif) ;
   background-size: cover;
   background-position: center ;
 }
 .container .slider .slide.slide3
 {
-  background: url(concert.gif) ;
+  background: url(images/concert2.gif) ;
   background-size: cover;
   background-position: center ;
 }
 
 .container .slider .slide.slide4
 {
-  background: url(jump.gif) ;
+  background: url(images/jump2.gif) ;
   background-size: cover;
   background-position: center ;
 }
@@ -230,7 +230,7 @@ section{
     width: 100%;
     height: 160vh;
     background-position: center;
-    background-image: url(10.gif);
+    background-image: url(images/10.gif);
     color: #ffffff;
     
     
@@ -276,7 +276,7 @@ section{
     width: 100%;
     height: 92vh;
     background-position: center;
-    background-image: url(11.gif);
+    background-image: url(images/11.gif);
     color: #000000;  
     
    
@@ -308,7 +308,7 @@ section{
     width: 100%;
     height: 92vh;
     background-position: center;
-    background-image: url(10.gif);
+    background-image: url(images/10.gif);
     color: #ffffff;
     
     
@@ -322,7 +322,7 @@ section{
     width: 100%;
     height: 92vh;
     background-position: center;
-    background-image: url(11.gif);
+    background-image: url(images/11.gif);
     color: #000000;  
     
 }
@@ -337,7 +337,7 @@ section{
     width: 100%;
     height: 92vh;
     background-position: center;
-    background-image: url(10.gif);
+    background-image: url(images/10.gif);
     color: #ffffff;
     
     
@@ -354,7 +354,7 @@ section{
     width: 100%;
     height: 160vh;
     background-position: center;
-    background-image: url(10.gif);
+    background-image: url(images/10.gif);
     color: #ffffff;
     
     
@@ -400,7 +400,7 @@ section{
     width: 100%;
     height: 200px;
     background-position: center;
-    background-image: url(10.gif);
+    background-image: url(images/10.gif);
     color: #ffffff;
     position: relative;
     display: flex;
@@ -417,7 +417,7 @@ section{
   margin: 0;
   padding: 0 0 0;
   background-position: center;
-  background-image: url(10.gif);
+  background-image: url(images/10.gif);
   color: #ffffff;
   text-align: center;
   height: 400px;
